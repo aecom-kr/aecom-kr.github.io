@@ -1,6 +1,6 @@
 # AECOM-KR
 
-This is Korean network in Albert Einstein College Of Medicine. Any questions, please contact aecom.kr@gmail.com
+This is Korean network in Albert Einstein College of Medicine. Any questions, please contact aecom.kr@gmail.com
 
 
 
